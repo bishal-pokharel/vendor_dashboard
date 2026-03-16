@@ -122,6 +122,8 @@
   }
   body {
     @apply bg-background text-foreground;
+    font-family: var(--font-poppins), system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
   }
   html {
     @apply font-sans;
