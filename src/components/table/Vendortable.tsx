@@ -65,7 +65,7 @@ export default function VendorTable({ data }: VendorTableProps) {
           </div>
         )} */}
 
-        {/* horizontal scroll wrapper for mobile */}
+        {/* table data section */}
         <div className="overflow-x-auto">
           <table className="w-full text-sm min-w-[800px]">
 
